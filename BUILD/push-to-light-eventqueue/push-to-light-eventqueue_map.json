@@ -1,0 +1,142 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 30, 
+            ".data": 8, 
+            ".bss-delta": 0, 
+            ".text": 116
+        }
+    }, 
+    {
+        "module": "[lib]/c.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 89, 
+            ".data": 2472, 
+            ".bss-delta": 0, 
+            ".text": 28260
+        }
+    }, 
+    {
+        "module": "[lib]/gcc.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 3104
+        }
+    }, 
+    {
+        "module": "[lib]/misc", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 28, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 180
+        }
+    }, 
+    {
+        "module": "mbed-os/components", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 4, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 96
+        }
+    }, 
+    {
+        "module": "mbed-os/drivers", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 750
+        }
+    }, 
+    {
+        "module": "mbed-os/events", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 3108, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 1482
+        }
+    }, 
+    {
+        "module": "mbed-os/hal", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 130, 
+            ".data": 8, 
+            ".bss-delta": 0, 
+            ".text": 1582
+        }
+    }, 
+    {
+        "module": "mbed-os/platform", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 229, 
+            ".data": 260, 
+            ".bss-delta": 0, 
+            ".text": 4578
+        }
+    }, 
+    {
+        "module": "mbed-os/rtos", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 6236, 
+            ".data": 168, 
+            ".bss-delta": 0, 
+            ".text": 10076
+        }
+    }, 
+    {
+        "module": "mbed-os/targets", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 1502, 
+            ".data": 8, 
+            ".bss-delta": 0, 
+            ".text": 12034
+        }
+    }, 
+    {
+        "module": "push-to-light-eventqueue/main.o", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 300, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 502
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 14584, 
+            "total_flash_delta": 0, 
+            "static_ram_delta": 0, 
+            "total_flash": 65688
+        }
+    }
+]
